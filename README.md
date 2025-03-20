@@ -12,6 +12,10 @@ It features
 - Easy, OS-agnostic, one line build with a .spec file
 - Only 29.5 MB
 
+![](Pic3.png)
+![](Pic4.png)
+![](Pic5.png)
+
 ## Usage
 
 - The app allows the user to write down notes, save them and load earlier notes
