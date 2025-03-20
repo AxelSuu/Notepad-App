@@ -50,8 +50,8 @@ Notepad-app
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd pygame-app
+   git clone https://github.com/AxelSuu/Notepad-App
+   cd Notepad-App
    ```
 
 2. Install the required dependencies:
