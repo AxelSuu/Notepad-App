@@ -64,9 +64,9 @@ Notepad-app
    pyinstaller pygame_app.spec
    ```
 4. Or run the application
-   '''
+   ```
    python3 main.py
-   '''
+   ```
 
 ## Contributing
 
