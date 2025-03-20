@@ -12,9 +12,13 @@ It features
 - Easy, OS-agnostic, one line build with a .spec file
 - Only 29.5 MB
 
-![](Pic3.png)
-![](Pic4.png)
-![](Pic5.png)
+<table>
+  <tr>
+    <td><img src="Pic3.png" alt="drawing" width="400"/></td>
+    <td><img src="Pic4.png" alt="drawing" width="400"/></td>
+    <td><img src="Pic5.png" alt="drawing" width="400"/></td>
+  </tr>
+</table>
 
 ## Usage
 
