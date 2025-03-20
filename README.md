@@ -69,7 +69,7 @@ Notepad-app
 
 3. Build the application
    ```
-   pyinstaller pygame_app.spec
+   pyinstaller notepad_app.spec
    ```
 4. Or run the application
    ```
