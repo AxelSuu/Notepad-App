@@ -2,7 +2,7 @@
 
 This directory is an application for a notepad
 It features
-- Operative system agnostic - works on Windows, Mac, Linux
+- Operating system agnostic - works on Windows, Mac, Linux
 - Ability to write notes, save notes and load notes
 - Confirmation dialog and in app file browswer
 - interactive text boxes which allow for writing when clicked
