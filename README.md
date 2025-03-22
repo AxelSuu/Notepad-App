@@ -5,8 +5,9 @@ It features
 - Operating system agnostic - works on Windows, Mac, Linux
 - Ability to write notes, save notes and load notes
 - Confirmation dialog and in app file browswer
-- interactive text boxes which allow for writing when clicked
 - Beautiful interactive frontend with UI, animations and popups
+- interactive text boxes which allow for writing when clicked
+- Buttons with hover effects, click effects and actions
 - Backend with state management for handling different screens
 - Ability to switch between light mode and dark mode
 - Easy, OS-agnostic, one line build with a .spec file
