@@ -6,7 +6,7 @@ It features
 - Ability to write notes, save notes and load notes
 - Confirmation dialog and in app file browswer
 - Beautiful interactive frontend with UI, animations and popups
-- interactive text boxes which allow for writing when clicked
+- Interactive text boxes which allow for writing when clicked
 - Buttons with hover effects, click effects and actions
 - Backend with state management for handling different screens
 - Ability to switch between light mode and dark mode
